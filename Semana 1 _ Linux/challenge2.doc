@@ -1,0 +1,12 @@
+10 comandos de Linux
+
+ls: ver los ficheros de un directorio
+cd: ir al directorio raíz.
+find / -name file1: buscar fichero y directorio a partir de la raíz del sistema.
+mkdir "nombre de la carpeta": crea una carpeta o directorio.
+pwd: mostrar el camino del directorio de trabajo.
+sudo: te permite realizar tareas que requieren permisos administrativos o raíz.
+ping google.com: verificará si puedes conectarte a Google y también medirá el tiempo de respuesta.
+cat: te permite leer el contenido de archivos.
+mv {ubicación\_actual} {nueva\_ubicación}: Mueve directorios o archivos de una ubicación a otra.
+touch {nombre y tipo de archivo}: crear nuevos archivos en el directorio actual.
