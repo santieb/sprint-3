@@ -1,0 +1,3 @@
+azure azure - autoscale
+google cloud - autoscaling groups of instances
+oracle - autoscaling
